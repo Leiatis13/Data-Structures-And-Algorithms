@@ -2,7 +2,7 @@
 I. Giới thiệu:
 - Bộ môn: Cấu trúc dữ liệu và giải thuật
 - Giảng viên: PGS.TS. Nguyễn Thị Hồng Minh
-- Sinh viên: Chu Ngô Phương Thủy
+- Sinh viên: Nguyễn Minh Đạt
 - Khoa: Toán - Cơ - Tin học
 - Trường Đại Học Khoa học Tự Nhiên - Đại Học Quốc Gia Hà Nội
 
